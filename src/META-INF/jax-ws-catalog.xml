@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://gkx638-23:8080/services/SysaidApiService?wsdl" uri="wsdl/gkx638-23_8080/services/SysaidApiService.wsdl"/>
+    <system systemId="http://gkx638-23:8080/services/SysaidApiService?xsd=1" uri="wsdl/gkx638-23_8080/services/SysaidApiService.xsd_1.xsd"/>
+    <system systemId="http://gkx638-22:8080/services/SysaidApiService?wsdl" uri="wsdl/gkx638-22_8080/services/SysaidApiService.wsdl"/>
+    <system systemId="http://gkx638-22:8080/services/SysaidApiService?xsd=1" uri="wsdl/gkx638-22_8080/services/SysaidApiService.xsd_1.xsd"/>
+</catalog>
